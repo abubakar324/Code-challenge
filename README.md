@@ -41,6 +41,8 @@ Sending cash? We’ve got you covered with a smart fee estimator that mimics a s
 - Calculates 1.5% of the amount
 - Enforces:
   - **Minimum fee:** KES 10
+ 
+    Auther:Abubakar sheikh
   - **Maximum fee:** KES 70
 - Shows the calculated fee and total amount to be debited
 
